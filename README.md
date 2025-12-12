@@ -1,10 +1,12 @@
 # Derick Downs
 
-### Digital Forensics • Investigations • Court-Ready Reporting
+### Digital Forensics • Investigations • Evidence Integrity
 
-I am the founder of **Octo Digital Forensics**, providing digital investigations, evidence analysis, and defensible reporting for legal, civil, and private matters.
+I am the founder of **Octo Digital Forensics**, providing digital investigations, evidence analysis, and court-ready reporting for legal, civil, and private matters.
 
-My work prioritizes **evidence integrity, clarity, and neutrality** — ensuring findings can withstand scrutiny.
+I also serve as **Marketing Director** at **WeTreat** and **National Medical Directors**, where I lead growth strategy, systems architecture, and compliance-driven marketing for healthcare organizations.
+
+My work emphasizes **clarity, defensibility, and precision** — whether analyzing digital evidence or building high-stakes systems.
 
 ---
 
@@ -28,20 +30,27 @@ Every engagement follows a structured, defensible process:
 ---
 
 ## 📂 Public Resources
-This GitHub contains **templates, checklists, and tools** derived from real-world forensic workflows.  
+This GitHub contains **templates, checklists, and tools** derived from real-world forensic and investigative workflows.  
 No client data is ever shared.
 
 ---
 
-## 🌐 Links
-- 🌍 Website: https://octodigitalforensics.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/derickdowns  
-- 📧 Contact: https://octodigitalforensics.com
-- 📧 Contact: https://derickdowns.com
-
+## 📅 Schedule a Consultation
+- https://calendly.com/digitalforensics
 
 ---
 
-> ⚠️ Educational use only.  
+## 🌐 Links & Credentials
+- 🌍 Main Site: https://derickdowns.com  
+- 🕵️ Octo Digital Forensics: https://octodigitalforensics.com  
+- 📖 Wikipedia: https://en.wikipedia.org/wiki/Derick_Downs  
+- 🛒 Amazon Author Page: https://www.amazon.com/stores/Derick-Downs/author/B084Z5YQWF  
+- 🔗 LinkedIn: https://www.linkedin.com/in/derickdowns  
+- 🏥 WeTreat: https://wetreat.io  
+- 🏥 National Medical Directors: https://nationalmedicaldirectors.com  
+
+---
+
+> ⚠️ Educational and informational use only.  
 > Materials do not constitute legal advice.  
 > Always preserve original evidence.
